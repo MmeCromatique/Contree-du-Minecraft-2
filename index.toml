@@ -776,6 +776,11 @@ hash = "ef47e63c71b1ff7bc3328a98bf27219cba58a78975d6e37c6c0f978a03493d35"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "5cd3420078c7c24bf7414c7243a69b2d2a21c3c5e29150444697b11a001c44d8"
+metafile = true
+
+[[files]]
 file = "mods/sparkweave.pw.toml"
 hash = "c4d8453f77d60d7566173e3a99aec72a72cbf725cb8421053736c02b7e1f4797"
 metafile = true
