@@ -1,0 +1,13 @@
+name = "More Vanilla Shields! (Fabric/Forge/NeoForge)"
+filename = "morevanillashields-1.0.6-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "87111eadd78c5e9fd572163b9e13a369fda198fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6396337
+project-id = 940758

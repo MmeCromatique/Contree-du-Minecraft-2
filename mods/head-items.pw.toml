@@ -1,0 +1,13 @@
+name = "Head Items"
+filename = "head-items-1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yftlCFy9/versions/uG2GTtyf/head-items-1.4.jar"
+hash-format = "sha512"
+hash = "eb26c3e0128e321a09c68500f04a7986b4ec212de6967be696860533f3a770d8304e5c8b475870bb35a74420980d009ed299f6dee3a7d1059ac87b51e5cd99ef"
+
+[update]
+[update.modrinth]
+mod-id = "yftlCFy9"
+version = "uG2GTtyf"

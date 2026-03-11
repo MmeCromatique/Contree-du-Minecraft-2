@@ -1,0 +1,13 @@
+name = "Toggle Item Frames"
+filename = "toggleableitemframes-5.1.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "80bdcaa688b4737b2ad030363f688858f6f08cd5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5705665
+project-id = 810660

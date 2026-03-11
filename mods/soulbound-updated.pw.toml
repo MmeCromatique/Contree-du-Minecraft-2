@@ -1,0 +1,13 @@
+name = "Soulbound (Updated)"
+filename = "soulbound-3.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "564fd2504e64cc88bf6d8d88f1ced51a0783de31"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6084968
+project-id = 618682

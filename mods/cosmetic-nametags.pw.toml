@@ -1,0 +1,13 @@
+name = "Cosmetic Nametags"
+filename = "nametags-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SL46MNwR/versions/Nw7F0oWG/nametags-1.0.1.jar"
+hash-format = "sha512"
+hash = "6bea31d053e0ff06c897da9bccd29e42ffc9e193ee600824310c3b09ad5b88efd3efad2e7353e7476e8c353e0bfd858f1346479963f5c320b22846b39baec1ac"
+
+[update]
+[update.modrinth]
+mod-id = "SL46MNwR"
+version = "Nw7F0oWG"

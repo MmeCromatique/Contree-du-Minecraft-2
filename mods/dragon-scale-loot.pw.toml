@@ -1,0 +1,13 @@
+name = "Dragon Scale Loot"
+filename = "dragon-scale-mod-1.2-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "606a102d1bb3dd27e2a3ed12204d95a4bb906e07"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5683544
+project-id = 1092410

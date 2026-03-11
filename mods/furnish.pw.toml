@@ -1,0 +1,13 @@
+name = "Furnish"
+filename = "furnish-26-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a9830d67710fb8aaf1351c2b5b560d75b1721f27"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5020367
+project-id = 547069

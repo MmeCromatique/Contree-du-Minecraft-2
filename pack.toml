@@ -1,0 +1,13 @@
+name = "Contree2"
+author = "MmeCromatique"
+version = "1.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7b7623858b4a310a82dad5b81fefe13cc47bf711d48d12fc8a7d91c5217bec11"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.20.1"
