@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "com.unascribed.unsup.json"
+hash = "78697c79423c11b8b55168938b4445c0d8f9b6d2e3d272a33406278c742ed9d2"
+
+[[files]]
 file = "mods/accessories-tc-layer.pw.toml"
 hash = "d0e56f4a48cc62066e31c4e4dcfb7e0141b4b707f9106dc383370926197918fd"
 metafile = true
@@ -233,6 +237,11 @@ metafile = true
 [[files]]
 file = "mods/deltaboxlib.pw.toml"
 hash = "d5141803f665e0525f4da5612b9bafe9c0b3f749104eeb0ed0abde83a60050d8"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "47fd33da68d0b13cdffd4124f5bc9cff64caa2878ce7e979ba8092400c2ae1eb"
 metafile = true
 
 [[files]]
@@ -958,3 +967,7 @@ metafile = true
 [[files]]
 file = "unsup.ini"
 hash = "9971355081fb1aed59eccb89c2d79f5dec990bfc6a3e07a4c575ad03c0d5621e"
+
+[[files]]
+file = "unsup.toml"
+hash = "f3a06fef9c824e1e84493ef134ec5bfc9f7937aa693956290c5dd7c4c7eeacb6"
