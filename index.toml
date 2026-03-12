@@ -5,6 +5,34 @@ file = "com.unascribed.unsup.json"
 hash = "78697c79423c11b8b55168938b4445c0d8f9b6d2e3d272a33406278c742ed9d2"
 
 [[files]]
+file = "config/bclib/biomes.json"
+hash = "e31ef59faee81b0cff9506c0b4137f6473f68ca469d2319203bc3ca50eed6d13"
+
+[[files]]
+file = "config/bclib/cache.json"
+hash = "54384dcc1f44df08c336a50d9d046295b902460d61c0216e32cd8b262f736c8c"
+
+[[files]]
+file = "config/bclib/client.json"
+hash = "9465041fe3ae38d327310691edf624fff7379a09aabedec7bcc3886841094518"
+
+[[files]]
+file = "config/bclib/generator.json"
+hash = "218542dbc05094a216da6161849a631c4fd770cf5364395d521e15e00240e0bf"
+
+[[files]]
+file = "config/bclib/main.json"
+hash = "6c374c2361f59dbbace6322200613773ec01d5fb6e8fb70ac5d89463e3631f05"
+
+[[files]]
+file = "config/bclib/server.json"
+hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
+
+[[files]]
+file = "config/pfm.json"
+hash = "8e185177b1460c7fbe73a815f10f4a035c8a755355e56256a32d0441d9b2ae4d"
+
+[[files]]
 file = "mods/accessories-tc-layer.pw.toml"
 hash = "d0e56f4a48cc62066e31c4e4dcfb7e0141b4b707f9106dc383370926197918fd"
 metafile = true
@@ -971,7 +999,7 @@ metafile = true
 
 [[files]]
 file = "unsup.ini"
-hash = "9971355081fb1aed59eccb89c2d79f5dec990bfc6a3e07a4c575ad03c0d5621e"
+hash = "2a31ee17485f609ee8ef16b3ab37e6a5dc6424514ea8d0b94bd699fcc7546b13"
 
 [[files]]
 file = "unsup.toml"
