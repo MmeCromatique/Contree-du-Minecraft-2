@@ -678,11 +678,6 @@ hash = "5c1ad8f59b7700f00fe1e58dca84e9ac71f05bab2bfc36ce7f79fca90bfa57b7"
 metafile = true
 
 [[files]]
-file = "mods/pale-garden-backport.pw.toml"
-hash = "0f511f4db1ca3fc0aa0a18e2bd8271867857a67187678ebe7bd0a44fd0a88281"
-metafile = true
-
-[[files]]
 file = "mods/paradise-lost.pw.toml"
 hash = "541c33f70fe9f54f2e3c15ecb24056b889fd5d8f4e39a6b7b3a8019250473055"
 metafile = true
@@ -830,11 +825,6 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "c9707be9953f87c752fc750bc7f54d6d1c10d74e53b7a86fb55357c977c4fd1b"
-metafile = true
-
-[[files]]
-file = "mods/sword-blocking-mechanics.pw.toml"
-hash = "5cc049768230446f1abdf8a3558085213e5e5654df8f85f1bcff0893584ad13e"
 metafile = true
 
 [[files]]
