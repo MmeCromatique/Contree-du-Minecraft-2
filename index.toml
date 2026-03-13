@@ -998,27 +998,27 @@ metafile = true
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/panorama_0.png"
-hash = "f58d1d9c35151c9abddcf9f05ad23a84409c506ae681f77b4fb52b4b3f59c149"
+hash = "a11c52df66c5da512d5cbf53e612ef5a52b2cf3a34a21d1f1eda2197a2060177"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/panorama_1.png"
-hash = "80eb61fdf5419697a7c7adc8eff838b004e624574d0235e47d1906542800bba5"
+hash = "9678968d59490126f9c560ac250174b236fe9c22182857ac4284264446a7026c"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/panorama_2.png"
-hash = "dee3c3cee78ae8915af908959aab60fd2669d71c24ab44339e77df287f71261e"
+hash = "0a315c4895aacff644a01ff015dc50bb7640093660c8959ec8426c8866cc5d93"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/panorama_3.png"
-hash = "e9fa25c2e684e7139a48ba9fe8ea1db26f110f392d3310606fc3c8b5d350cb92"
+hash = "b4b6fdc73683fb1e0108e0db366b039f1b6d96d8fe991a18fb900f725afb8ab1"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "e2aee284fc8083f8f57580469a670b94c23203247cf9d1bbd6cb748d75615513"
+hash = "7017cec7f4367823d91d36f5d637d1e6eb0121fd1cea07d5bbc288fb9fcb9a5d"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "6c9791ef27669d069c23588987bf1ce6740aa70d675cde7f8e5a20534dc3e628"
+hash = "66609bb024f8a7524e9ead026ae0b280a552c2360b468a43e58c01cf54c94acb"
 
 [[files]]
 file = "resources/minecraft/textures/gui/title/background/panorama_overlay.png"
