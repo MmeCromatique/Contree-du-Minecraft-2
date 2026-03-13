@@ -567,6 +567,11 @@ hash = "75e935b63073ad2104c50baead0898b07ff60c0f465adf796f4a4960db8eae09"
 metafile = true
 
 [[files]]
+file = "mods/load-my-resources.pw.toml"
+hash = "269bdc71780653d98e4d382a797c89b87eb42662590dad552b5b88812aa9f669"
+metafile = true
+
+[[files]]
 file = "mods/lootr-fabric.pw.toml"
 hash = "1fb2f2671a461c6cb1aefeca5e5f485d0e6e20c4fece05afaec937f5fc9ebafb"
 metafile = true
@@ -990,6 +995,34 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "691e090328215d2bc82667316431287a0a888e09133c0f8e3ad8b2152cceb530"
 metafile = true
+
+[[files]]
+file = "resources/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "f58d1d9c35151c9abddcf9f05ad23a84409c506ae681f77b4fb52b4b3f59c149"
+
+[[files]]
+file = "resources/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "80eb61fdf5419697a7c7adc8eff838b004e624574d0235e47d1906542800bba5"
+
+[[files]]
+file = "resources/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "dee3c3cee78ae8915af908959aab60fd2669d71c24ab44339e77df287f71261e"
+
+[[files]]
+file = "resources/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "e9fa25c2e684e7139a48ba9fe8ea1db26f110f392d3310606fc3c8b5d350cb92"
+
+[[files]]
+file = "resources/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "e2aee284fc8083f8f57580469a670b94c23203247cf9d1bbd6cb748d75615513"
+
+[[files]]
+file = "resources/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "6c9791ef27669d069c23588987bf1ce6740aa70d675cde7f8e5a20534dc3e628"
+
+[[files]]
+file = "resources/minecraft/textures/gui/title/background/panorama_overlay.png"
+hash = "4cabea349b45c137de6ab4472303fb20fb94b07a119c8926aa54575ffbab91e6"
 
 [[files]]
 file = "unsup.ini"
