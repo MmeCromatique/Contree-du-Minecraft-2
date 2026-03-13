@@ -33,6 +33,10 @@ file = "config/pfm.json"
 hash = "8e185177b1460c7fbe73a815f10f4a035c8a755355e56256a32d0441d9b2ae4d"
 
 [[files]]
+file = "config/punchy/punchy_config.json"
+hash = "2a336f0a8602357231bb9a27de8d76646da2a53377903c21511beeef727254a4"
+
+[[files]]
 file = "mods/accessories-tc-layer.pw.toml"
 hash = "d0e56f4a48cc62066e31c4e4dcfb7e0141b4b707f9106dc383370926197918fd"
 metafile = true
