@@ -1,5 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text eol=lf
 *.ini text eol=lf
-*.png text eol=crlf
+*.png binary
 autocrlf=false
