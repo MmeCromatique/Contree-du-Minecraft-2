@@ -1,0 +1,13 @@
+name = "CosmeticArmorCompatibility"
+filename = "CosmeticArmorCompatibility-1.1.3fix.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1UjQ96Vt/versions/dxCTvjC9/CosmeticArmorCompatibility-1.1.3fix.jar"
+hash-format = "sha512"
+hash = "4aea0ff5d730280688b4fe38d1a23feb5fe5c4de2ff0056fd453a8f6d3c6d074403b9d0a6330043f70449763482c6271b4c35d889c040911edb1843471a8c37e"
+
+[update]
+[update.modrinth]
+mod-id = "1UjQ96Vt"
+version = "dxCTvjC9"

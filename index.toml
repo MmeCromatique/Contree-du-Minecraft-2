@@ -227,8 +227,18 @@ hash = "17d588c49f6c3bf2ad659c6d3fe073704a6e15c34bf69f70109a6b762e6ea0c3"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor.pw.toml"
+hash = "195105e5e989cd109d5f644b58eca2e06f9d487d80ea365fa42033675aac7ac7"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-nametags.pw.toml"
 hash = "db83f4d3a636cf383d7d42e98cc2fe0ba04f703fe5a4120099f108e722d3ee92"
+metafile = true
+
+[[files]]
+file = "mods/cosmeticarmorcompatibility.pw.toml"
+hash = "3d1cdb60a70f102c5c8f945eb3662208566d43254f2be8f11df6d4d7466f465e"
 metafile = true
 
 [[files]]
@@ -309,6 +319,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "5d01b272a43cf490d673ae9179bff0afd740b7b3884eb64be587fd7e8e0f4133"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "71644e8041262193332f28d24b649c06c81074a983c6e3acd18b62a117b68b60"
 metafile = true
 
 [[files]]
@@ -444,6 +459,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "3ba1f8150b574b10a258a4af832ed6fa1817b8ec2a2401fe29b303238778c1c6"
+metafile = true
+
+[[files]]
+file = "mods/glass-armor.pw.toml"
+hash = "bce38022ee79edf30784b14039e76eabf3b4b6507f149c97972b2a6841676944"
 metafile = true
 
 [[files]]
@@ -772,11 +792,6 @@ hash = "62d685e001957b2f677675df77e3d96be4ba9ce28cd19b286dc7b386a5b472b0"
 metafile = true
 
 [[files]]
-file = "mods/show-me-your-skin.pw.toml"
-hash = "f11e3bd8c6306880f826cddd7b772dc889efb53179e710ac67f01e6f400055c9"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "953bf8b7f1516c226bf80636b57941aa02557bc0a684d9c115440f52e46a8121"
 metafile = true
@@ -874,11 +889,6 @@ metafile = true
 [[files]]
 file = "mods/too-cheap.pw.toml"
 hash = "80b7caec8d9682a9f0cb9bdad35c1946fed7493834b72bc288c2ae030885ee2f"
-metafile = true
-
-[[files]]
-file = "mods/trinkets.pw.toml"
-hash = "d9bfec2cf36b6bae2d85a1136560e047ab8ce1b0e9798e7b6be5d0670f65fb55"
 metafile = true
 
 [[files]]
