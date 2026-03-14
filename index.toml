@@ -68,7 +68,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "2492a7266fab4c2ff411612180974b98510afb66a18e640f4de63ad615dd1e9e"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "ae11fe7c63207b7257ecb782d421655c6f56adb551b78ad430066edc94bee3b1"
+hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
 
 [[files]]
@@ -229,6 +229,11 @@ metafile = true
 [[files]]
 file = "mods/cosmetic-nametags.pw.toml"
 hash = "db83f4d3a636cf383d7d42e98cc2fe0ba04f703fe5a4120099f108e722d3ee92"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "af83eb1ea0f7a36e4424248c744c1cbebb5045d361e843b873d4d89bf65ad8ad"
 metafile = true
 
 [[files]]
@@ -504,6 +509,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "60300c6873d127b49ba31b11abc8fa7ac65008480c21c0db4c36d46db25426c5"
+metafile = true
+
+[[files]]
+file = "mods/just-hammers.pw.toml"
+hash = "1939889ce0f89529253d5a699e002443d28c63f3942376b274fe4acd379eeba5"
 metafile = true
 
 [[files]]
@@ -862,6 +872,11 @@ hash = "92eefe92f65e5548b58a42b65a33e0213d5b35c99bb2cb6d39b09af5b85401a1"
 metafile = true
 
 [[files]]
+file = "mods/too-cheap.pw.toml"
+hash = "80b7caec8d9682a9f0cb9bdad35c1946fed7493834b72bc288c2ae030885ee2f"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "d9bfec2cf36b6bae2d85a1136560e047ab8ce1b0e9798e7b6be5d0670f65fb55"
 metafile = true
@@ -889,6 +904,26 @@ metafile = true
 [[files]]
 file = "mods/via-romana.pw.toml"
 hash = "5f0c6153df16c758d5a053c4f600c9355ccb5b600c28e8d6e05035a9c9c89a05"
+metafile = true
+
+[[files]]
+file = "mods/waterframes.pw.toml"
+hash = "c890e5a6241113a49c30241c8f08cab161ae3880ca0f6f9325aecd4b76adf6a8"
+metafile = true
+
+[[files]]
+file = "mods/watermedia-yt-plugin.pw.toml"
+hash = "9fa9b86f4975f5995519f284c519482d7aa69f2e3cbc2be208dc43c46998bed6"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "9c14d2011a343872dfa72aee64ef7beb2f9f9e47867807b4b03726cfa8e429b7"
+metafile = true
+
+[[files]]
+file = "mods/watervision.pw.toml"
+hash = "1d954e3b9985b3434b38bf84d8a4a615180aa1b0dc2c4088e06f37bfbb879067"
 metafile = true
 
 [[files]]
