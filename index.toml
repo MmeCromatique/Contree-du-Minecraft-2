@@ -30,7 +30,7 @@ hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
 
 [[files]]
 file = "config/easyanvils-server.toml"
-hash = "47182e0fa7cf0fccb8bcdfa13d47234b9d386499c77d35b0e908189516cbc6ef"
+hash = "71a38fda425611ca6cf2c6a1a48b3f3f5be1a78034cdea2d1962944bdd526c40"
 
 [[files]]
 file = "config/pfm.json"
