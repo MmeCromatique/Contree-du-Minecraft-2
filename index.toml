@@ -29,6 +29,10 @@ file = "config/bclib/server.json"
 hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
 
 [[files]]
+file = "config/easyanvils-server.toml"
+hash = "47182e0fa7cf0fccb8bcdfa13d47234b9d386499c77d35b0e908189516cbc6ef"
+
+[[files]]
 file = "config/pfm.json"
 hash = "8e185177b1460c7fbe73a815f10f4a035c8a755355e56256a32d0441d9b2ae4d"
 
