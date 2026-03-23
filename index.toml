@@ -771,6 +771,11 @@ hash = "0cd339450fbb74cebddfc4aa9599a98d0bdc9dc0e3a82d9d5456007127f94d2d"
 metafile = true
 
 [[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "1dec5eab016f2b91c2b4c39cb6d0c3f9c9e0f41de359670e9518078dd788240f"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "8c72cc6704cd3062268260d0760bfb6152f463ca00783f8f8872c7706e3eec30"
 metafile = true
@@ -888,6 +893,11 @@ metafile = true
 [[files]]
 file = "mods/toggle-item-frames.pw.toml"
 hash = "92eefe92f65e5548b58a42b65a33e0213d5b35c99bb2cb6d39b09af5b85401a1"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "c57e5187ae4382be6c19e596c8a3f4a7a2b4d566c16c6fc8ad8a0629dc9454d1"
 metafile = true
 
 [[files]]
